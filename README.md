@@ -1,2 +1,2 @@
 # Eight puzzle problem
- Solving 8-puzzle problem using A* search algorithm
+ Solved 8-puzzle problem using A* search algorithm
